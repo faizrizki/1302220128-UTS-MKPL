@@ -43,7 +43,6 @@
 //	
 //}
 
-// Branch: LongMethod-CalculateTax
 package lib;
 
 public class TaxFunction {
